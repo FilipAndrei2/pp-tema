@@ -1,3 +1,1 @@
-# pp-tema
-NU TE MAI LASA CONECTAT LA LABORATOARE
-APROPO IA SI TU TEMELE ASTEA LA PP CA VAD CA NU ITI PLACE RAMAI FARA LOC DE MUNCA IN CRIZA ASTA
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/xRwZoRya)
